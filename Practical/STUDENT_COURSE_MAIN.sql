@@ -27,3 +27,6 @@ INSERT INTO COURSE (CourseID, StudentID, CourseName) VALUES
 (3, 102, 'Physics'),
 (4, 103, 'Chemistry'),
 (5, 105, 'DBMS');
+
+SELECT * FROM Student_New;
+SELECT * FROM COURSE;
